@@ -1,0 +1,18 @@
+.CardItem {
+    border: none;
+    border-radius: 4px; 
+    padding: .5rem;
+    background-color: #da9ddb;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+    color: #f4f0f0;
+    box-shadow: 0px 5px 50px rgba(142, 100, 176, 0.755);
+}
+
+.CardItem:hover {
+    background-color: #380439;
+}
+  
+
+

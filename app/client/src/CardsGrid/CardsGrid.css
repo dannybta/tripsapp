@@ -1,0 +1,10 @@
+.Cardsgrid {
+    margin: auto;
+    width: 50%;
+    padding: 5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 1rem;
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+  }
